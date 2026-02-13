@@ -165,9 +165,9 @@ Site administration > Courses > Manage courses and categories
 ```
 
 **บันทึกรูปหน้า Category:** 
-```
-<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 37 37" src="https://github.com/user-attachments/assets/6ad58e39-d1f4-4d24-825b-11f07651fa2e" />
 
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 37 37" src="https://github.com/user-attachments/assets/6ad58e39-d1f4-4d24-825b-11f07651fa2e" />
+```
 
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
