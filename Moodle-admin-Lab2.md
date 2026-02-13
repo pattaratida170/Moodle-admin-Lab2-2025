@@ -381,12 +381,12 @@ Data settings:
 5. Force password change: Yes
 
 **บันทึกรูปหน้า Users (Student):**
-```
+
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 01 49" src="https://github.com/user-attachments/assets/6942c394-0246-43e7-80a2-276929170e5d" />
 
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/2e6a306a-fc66-4f51-b677-eb8c8ff50603" />
 
-
+```
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
 
@@ -433,9 +433,9 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 **เลือกไฟล์รายวิชา แล้วทำการ Upload**
 
 **บันทึกรูปหน้า Course :** 
-```
-<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 06 21" src="https://github.com/user-attachments/assets/27da8861-0350-410c-aa36-dac409029db5" />
 
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 06 21" src="https://github.com/user-attachments/assets/27da8861-0350-410c-aa36-dac409029db5" />
+```
 
 #### 5. ตรวจสอบผลลัพธ์
 
@@ -481,15 +481,16 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 - Role: Student
 
 **บันทึกรูปหน้า Enroll นักเรียน:** 
-```
-<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 19 09" src="https://github.com/user-attachments/assets/a8197cdb-c21d-4201-919a-661b4009fc62" />
 
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 19 09" src="https://github.com/user-attachments/assets/a8197cdb-c21d-4201-919a-661b4009fc62" />
+```
 
 ```
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
-```
+
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/3f85f672-258e-4c0c-bfbb-463ff24d1320" />
 
+```
 
 #### 6.2 เพิ่ม Activities
 **1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -519,9 +520,9 @@ Grade to pass: 60%
 ```
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
-```
-<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 12 28 21" src="https://github.com/user-attachments/assets/779ca8da-d94a-4fb2-8614-464af4f55cf1" />
 
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 12 28 21" src="https://github.com/user-attachments/assets/779ca8da-d94a-4fb2-8614-464af4f55cf1" />
+```
 
 
 ## คำถามท้ายการทดลอง
