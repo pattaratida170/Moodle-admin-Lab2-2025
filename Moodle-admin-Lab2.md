@@ -166,8 +166,8 @@ Site administration > Courses > Manage courses and categories
 
 **บันทึกรูปหน้า Category:** 
 ```
- # บันทึกรูปหน้า Category
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 37 37" src="https://github.com/user-attachments/assets/6ad58e39-d1f4-4d24-825b-11f07651fa2e" />
+
 
 ### 3: สร้างและจัดการ Cohorts 
 **3.1 สร้างไฟล์ `cohorts.csv`:** ที่มีรายละเอียดด้านล่าง (สำหรับระดับมัธยมศึกษา) โดยเลือกเข้ารหัสเป็น UTF-8
@@ -320,8 +320,8 @@ CSV settings:
 
 **บันทึกรูปหน้า Cohorts ที่สร้างแล้ว:** 
 ```
- # บันทึกรูปหน้า Cohorts
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 10 57 45" src="https://github.com/user-attachments/assets/9bd51b26-fd18-4e2a-b433-97b6a70bca8d" />
+
 
 ### 4: Bulk User Upload
 
@@ -380,18 +380,22 @@ Data settings:
 4. Upload type: Add new only
 5. Force password change: Yes
 
-**บันทึกรูปหน้า Users (Student):** 
+**บันทึกรูปหน้า Users (Student):**
+
 ```
- # บันทึกรูปหน้า Users
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 01 49" src="https://github.com/user-attachments/assets/6942c394-0246-43e7-80a2-276929170e5d" />
+
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/2e6a306a-fc66-4f51-b677-eb8c8ff50603" />
+
 
 **Upload Users (Teacher):**
 ทำการ Upload Users ที่เป็น Teaher โดยใช้ไฟล์ teachers_sample.csv
 
 **บันทึกรูปหน้า Users (Teacher):** 
 ```
- # บันทึกรูปหน้า Users
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 01 49" src="https://github.com/user-attachments/assets/6942c394-0246-43e7-80a2-276929170e5d" />
+
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/2e6a306a-fc66-4f51-b677-eb8c8ff50603" />
 ---
 
 ## 3. Upload Courses 
@@ -430,8 +434,8 @@ Reset รหัสผ่านทั้งหมด (ไม่ต้องสร
 
 **บันทึกรูปหน้า Course :** 
 ```
- # บันทึกรูปหน้า Course
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 06 21" src="https://github.com/user-attachments/assets/27da8861-0350-410c-aa36-dac409029db5" />
+
 
 #### 5. ตรวจสอบผลลัพธ์
 
@@ -467,8 +471,8 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll ครู:** 
 ```
- # บันทึกรูปหน้า Enroll
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 13 59" src="https://github.com/user-attachments/assets/6bcc38bb-9901-43ec-9c09-b59f46c8f0cf" />
+
 
 **Enroll นักเรียนผ่าน Cohort sync:**
 - หน้า Participants > Enrolment methods  (จากเดิมจะเลือกเมนูเป็น Enrolled users ไว้)
@@ -478,14 +482,14 @@ Category: ชั้นมัธยมศึกษาปีที่ 1
 
 **บันทึกรูปหน้า Enroll นักเรียน:** 
 ```
- # บันทึกรูปหน้า Enroll
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 19 09" src="https://github.com/user-attachments/assets/a8197cdb-c21d-4201-919a-661b4009fc62" />
+
 
 ```
 **บันทึกรูปหน้า Course ที่ Enrol User แล้ว :** 
 ```
- # บันทึกรูปหน้า Course ที่ Enrol User แล้ว
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/3f85f672-258e-4c0c-bfbb-463ff24d1320" />
+
 
 #### 6.2 เพิ่ม Activities
 **1) ทดสอบ Login เข้าระบบด้วย User Teacher ที่ได้สร้างขึ้น
@@ -516,15 +520,23 @@ Grade to pass: 60%
 
 **บันทึกรูปหน้า Course ที่เพิ่มเติม Activities:** 
 ```
- # บันทึกรูปหน้า Course ที่เพิ่มเติม Activities
-```
+<img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 12 28 21" src="https://github.com/user-attachments/assets/779ca8da-d94a-4fb2-8614-464af4f55cf1" />
+
 
 
 ## คำถามท้ายการทดลอง
 
-**1.** อธิบายความแตกต่างระหว่าง Category และ Cohort 
+**1.** อธิบายความแตกต่างระหว่าง Category และ Cohort
+	•	Category คือ การจัดหมวดหมู่รายวิชา เพื่อจัดระเบียบโครงสร้างรายวิชาในระบบ
+	•	Cohort คือ กลุ่มผู้ใช้ (ผู้เรียน/ผู้สอน) ที่ถูกรวมไว้เป็นกลุ่มเดียวกัน เพื่อใช้ในการจัดการสิทธิ์หรือการลงทะเบียนรายวิชา
 
-**2.** เหตุใดควรใช้ Cohort sync 
+**2.** เหตุใดควรใช้ Cohort sync
+	•	เพื่อเพิ่ม/จัดการผู้เรียนในรายวิชาแบบอัตโนมัติ
+	•	ลดความผิดพลาดจากการเพิ่มผู้เรียนทีละคน
+	•	สะดวกเมื่อมีผู้เรียนจำนวนมากหรือมีหลายห้องเรียน
+
 
 **3.** Best practices สำหรับ Category structure คือแบบใด
-
+	•	จัดโครงสร้างตามคณะ/สาขา/ระดับชั้น
+	•	ตั้งชื่อให้ชัดเจนและเป็นมาตรฐานเดียวกัน
+	•	ไม่ซับซ้อนเกินไป และมีลำดับชั้นที่เป็นระบบ
