@@ -381,7 +381,6 @@ Data settings:
 5. Force password change: Yes
 
 **บันทึกรูปหน้า Users (Student):**
-
 ```
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 01 49" src="https://github.com/user-attachments/assets/6942c394-0246-43e7-80a2-276929170e5d" />
 
@@ -396,6 +395,7 @@ Data settings:
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 01 49" src="https://github.com/user-attachments/assets/6942c394-0246-43e7-80a2-276929170e5d" />
 
 <img width="1470" height="956" alt="ภาพถ่ายหน้าจอ 2569-02-13 เวลา 11 20 09" src="https://github.com/user-attachments/assets/2e6a306a-fc66-4f51-b677-eb8c8ff50603" />
+
 ---
 
 ## 3. Upload Courses 
